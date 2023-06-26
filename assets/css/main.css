@@ -327,6 +327,10 @@ input, select, textarea {
 			align-items: center;
 		}
 
+		.custom-size {
+			transform: scale(1.5);
+		}
+
 		.row.aln-bottom {
 			align-items: flex-end;
 		}
